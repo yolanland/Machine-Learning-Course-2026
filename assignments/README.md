@@ -4,7 +4,7 @@ Mahasiswa wajib mengikuti alur kerja (*workflow*) ini untuk setiap tugas minggua
 
 ### Langkah 1: Melakukan Fork Repositori
 
-1. Buka halaman repositori utama dosen Anda.
+1. Buka halaman repositori utama matkul Anda.
 2. Klik tombol **Fork** di pojok kanan atas.
 3. Tunggu hingga repositori tersebut muncul di akun GitHub pribadi Anda (misal: `github.com/username-anda/Machine-Learning-Course-2026`).
 
@@ -37,14 +37,14 @@ Mahasiswa wajib mengikuti alur kerja (*workflow*) ini untuk setiap tugas minggua
 
 1. Kembali ke halaman utama repositori **fork** Anda di GitHub.
 2. Klik tombol **Contribute** lalu pilih **Open Pull Request**.
-3. Beri judul PR Anda: `Tugas Minggu X - NIM - Nama`.
+3. Beri judul tugas Anda: `Tugas Minggu X - NIM - Nama`.
 4. Klik **Create Pull Request**.
 
 ---
 
 ### 💡 Tips:
 
-* **Sinkronisasi:** Sebelum mengerjakan tugas minggu berikutnya, pastikan Anda melakukan "Sync Fork" agar materi terbaru dari dosen masuk ke repositori Anda.
+* **Sinkronisasi:** Sebelum mengerjakan tugas minggu berikutnya, pastikan Anda melakukan "Sync Fork" agar materi terbaru masuk ke repositori Anda.
 * **Kerapian:** Jangan menghapus file materi asli dari dosen; cukup tambahkan folder NIM Anda di dalam folder `assignments`.
 
 
